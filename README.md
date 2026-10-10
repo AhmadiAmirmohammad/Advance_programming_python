@@ -1,3 +1,2 @@
 # Advance programming python
- ## OOP
- ## SOLID
+- <b> OOP + SOLID </b>
